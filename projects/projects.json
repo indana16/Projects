@@ -42,7 +42,7 @@
   {
     "name": "Splicing",
     "desc": "splicing kabel FO di GMT",
-    "image": "assets/images/projects/test.png",
+    "image": "test.png",
     "category": "mern",
     "links": {
       "view": "https://www.garuda.net.id/"
